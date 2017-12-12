@@ -1,0 +1,57 @@
+logs
+
+# Jasper Report
+*.jasper
+
+# IntelliJ IDEA
+*.iml
+.idea
+
+# Eclipse Setting
+/.metadata
+/Servers
+.settings
+.project
+.classpath
+.buildpath
+RemoteSystemsTempFiles
+bin
+org.eclipse.jdt.core.prefs
+
+# Maven
+target
+
+# Netbeans Ignore
+nbproject
+build
+dist
+private
+
+
+# Folder hasil upload
+/sample-code/sesi-05/belajar-springmvc/src/main/webapp/uploads/
+
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
